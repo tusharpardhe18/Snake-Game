@@ -1,4 +1,4 @@
-# Snake-Game
+# Snake-o-Game
 **SnakeMania - A Snake Game**
 
 **Technologies Used:**
